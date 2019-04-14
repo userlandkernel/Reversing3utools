@@ -34,3 +34,10 @@ For developers and researchers this means it is amazingly easy to quickly downlo
 Aside the filestorage they also have a REST json API with one can retrieve information about firmware.  
 One can ask the API to only give jailbreakable or jailbreakable and signed firmware or just any firmware for specific devices and OS versions.  
 Great feature if you ask me, again for developers and researchers a good way to automate their work a few more.  
+
+
+**NOTE FOR DEVELOPERS:** You can see the full documentation being developed when clicking the 'wiki' here on GitHub.  
+
+**TLDR:**
+Reverse engineering 3utools pays off and the first vulnerability has been fixed.  
+Developers and researchers benefit from 3utools rest API and filestorage.
