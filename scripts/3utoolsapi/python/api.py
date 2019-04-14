@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# Yes, 3utools does not need any API key how excellent and polite!
+# Let's build something beautiful out of the API, definitly not this crappy script I wrote in a minute.
+
 import os
 import sys
 import requests
